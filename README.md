@@ -1,2 +1,2 @@
 # my_-project
-my_pharmace
+my_pharmacy
